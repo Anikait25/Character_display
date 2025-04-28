@@ -50,3 +50,8 @@ A 7-bit output that drives a 7-segment display to show the corresponding charact
 Based on the input, predefined patterns are sent to the 7-segment display to show custom characters like 'A', 'b', 'C', 'd', etc.
 
 The mapping logic is implemented using combinational `case` statements.
+
+## Author
+
+Anikait Sarkar  
+RSA SEIP VLSI Trainee
